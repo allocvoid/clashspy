@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environment files with secrets
+*.env
+
+# Monitoring data (generated at runtime)
+monitoring/
+monitored_players.json
+
+# IDE
+.vscode/
+.idea/
